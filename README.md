@@ -1,6 +1,6 @@
 # GhostScan - Port Scanner
 
-![](GhostScan.png)
+![](https://imagizer.imageshack.com/img924/2180/qbHrbk.png)
 
 ---
 
