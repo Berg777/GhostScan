@@ -1,1 +1,2 @@
-# GhostScan
+# GhostScan - Port Scanner
+
